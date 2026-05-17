@@ -1,0 +1,7 @@
+{
+  "name": "TOONHUB Carousel",
+  "description": "A full-viewport character figurine carousel hero section.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
